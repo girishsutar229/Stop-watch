@@ -1,5 +1,5 @@
 # Stop-watch
-LIVE Demo :-<a href="https://girishsutar229.github.io/Stop-watch/" target="_blank" rel="noopener noreferrer">Link Here</a>
+LIVE Demo :-<a href="https://girishsutar229.github.io/Stop-watch/" target="_blank" rel="noopener noreferrer"> Check  Here</a>
 
 
 # Description
